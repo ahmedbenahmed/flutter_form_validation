@@ -1,6 +1,8 @@
 # flutter_form_validation
 
-A new Flutter project.
+Flutter Form Validation with managing Form input Focus
+
+
 
 ## Getting Started
 
